@@ -24,4 +24,4 @@ The project was created to help beginners and develop the experience of anyone i
 
 This project was deployed using the [VERCEL](https://vercel.com/) service.
 
-You can visit through [this link]().
+You can visit through [this link](https://lp-deadbydaylight.vercel.app/).
