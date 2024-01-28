@@ -14,7 +14,7 @@ The project was created to help beginners and develop the experience of anyone i
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white))
+![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Front-end:** HTML, CSS
 **Back-end:** JavaSript
